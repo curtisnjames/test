@@ -1,0 +1,9 @@
+ name: erau-spring-2020
+ channels:
+   - conda-forge
+ dependencies:
+   - python>=3.6,<3.8
+   - arm_pyart
+   - jupyter
+   - ipywidgets
+   - jupyterlab
